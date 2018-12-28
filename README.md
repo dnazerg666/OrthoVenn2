@@ -32,5 +32,9 @@ Usage:<br/>
 -w the path of output folder<br/>
 -b the path of bin folder<br/>
 
-example: python ./OrthoVenn2.py -i ./example_data -w ./work_dir -b ./bin 
+example: python ./OrthoVenn2.py -i ./example_data -w ./work_dir -b ./bin
+
+Note:
+The protein sequence file must be fasta format (*.fasta) or compressed fasta (*.fasta.tar.gz, *.fasta.zip).
+The description line is distinguished from the sequence data by a greater-than (">") symbol in the first column. The first word following the ">" symbol is the identifier of the sequence, and the rest of the line is the description (both are optional). There should be no space between the ">" and the first letter of the identifier. 
 
