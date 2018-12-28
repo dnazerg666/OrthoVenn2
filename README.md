@@ -19,3 +19,11 @@ There is a number of additional dependencies not provided by OrthoVenn2 authors.
 3. Enter the directory after extracting.<br/>
 4. type "python ./OrthoVenn2".<br/>
 
+# bin
+
+The project folder contains python files of OrthoVenn2 and the bin folder contains the executable files of the dependencies, all of them has tested in Ubuntu 18.04 (64-bit).
+
+# Usage
+
+
+
