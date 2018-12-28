@@ -4,7 +4,7 @@ OrthoVenn2 is a tool for comparison and annotation of orthologous gene clusters 
 
 Genome wide analysis of orthologous clusters is an important component of comparative genomics studies. Identifying the overlap among orthologous clusters can enable us to elucidate the function and evolution of proteins across multiple species.
 
-web server: https://orthovenn2.bioinfotoolkits.net
+web server: http://www.bioinfogenome.net/OrthoVenn
 
 # Dependencies
 
