@@ -8,6 +8,6 @@ In a polyploid species, genes from the homeologous genomes exhibit a very high s
 
 There is a number of additional dependencies not provided by GSP authors. Additional programs include:
 
-bedtools: a powerful toolset for genome arithmetic (http://bedtools.readthedocs.org/en/latest/).<br/>
-Muscle: Multiple sequence alignment program (http://www.drive5.com/muscle/).<br/>
-Primer3: program for designing PCR primers (http://primer3.sourceforge.net/).<br/>
+1. diamond: a powerful toolset for genome arithmetic (http://bedtools.readthedocs.org/en/latest/).<br/>
+2. orthAgogue: Multiple sequence alignment program (http://www.drive5.com/muscle/).<br/>
+3. mcl: program for designing PCR primers (http://primer3.sourceforge.net/).<br/>
