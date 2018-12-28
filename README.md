@@ -2,7 +2,9 @@
 
 OrthoVenn2 is a tool for comparison and annotation of orthologous gene clusters among multiple species.
 
-In a polyploid species, genes from the homeologous genomes exhibit a very high sequence similarity, especially in the coding regions. This makes it difficult to design genome-specific primers to amplify specific sequences from the individual genomes in the polyploid genome background. Development of genome-specific primers for important genes in polyploid species is very useful and critical not only for the study of sequence diversity and association mapping of genes in natural populations, but also for the development of gene-based functional markers for marker-assisted breeding. GSP is a powerful tool for designing genome-specific primers that can distinguish the sequences among different genomes in a polypoid species. In additoon, GSP also allow user to design specific priemrs in multiple sequence alignment.
+Genome wide analysis of orthologous clusters is an important component of comparative genomics studies. Identifying the overlap among orthologous clusters can enable us to elucidate the function and evolution of proteins across multiple species.
+
+web server: https://orthovenn2.bioinfotoolkits.net
 
 # Dependencies
 
@@ -30,5 +32,5 @@ Usage:<br/>
 -w the path of output folder<br/>
 -b the path of bin folder<br/>
 
-
+example: python ./OrthoVenn2.py -i ./example_data -w ./work_dir -b ./bin 
 
