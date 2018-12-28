@@ -8,6 +8,6 @@ In a polyploid species, genes from the homeologous genomes exhibit a very high s
 
 There is a number of additional dependencies not provided by GSP authors. Additional programs include:
 
-1. diamond: a powerful toolset for genome arithmetic (http://bedtools.readthedocs.org/en/latest/).<br/>
-2. orthAgogue: Multiple sequence alignment program (http://www.drive5.com/muscle/).<br/>
-3. mcl: program for designing PCR primers (http://primer3.sourceforge.net/).<br/>
+1. diamond: a sequence aligner for protein and translated DNA searches (hhttps://github.com/bbuchfink/diamond).<br/>
+2. orthAgogue: an agile tool for the rapid prediction of orthology relations (https://github.com/samyeaman/orthagogue).<br/>
+3. mcl: a cluster algorithm for graphs (https://www.micans.org/mcl).<br/>
