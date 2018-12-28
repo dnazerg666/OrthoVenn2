@@ -6,8 +6,16 @@ In a polyploid species, genes from the homeologous genomes exhibit a very high s
 
 # Dependencies
 
-There is a number of additional dependencies not provided by GSP authors. Additional programs include:
+There is a number of additional dependencies not provided by OrthoVenn2 authors. Additional programs include:
 
-1. diamond: a sequence aligner for protein and translated DNA searches (hhttps://github.com/bbuchfink/diamond).<br/>
+1. diamond: a sequence aligner for protein and translated DNA searches (https://github.com/bbuchfink/diamond).<br/>
 2. orthAgogue: an agile tool for the rapid prediction of orthology relations (https://github.com/samyeaman/orthagogue).<br/>
 3. mcl: a cluster algorithm for graphs (https://www.micans.org/mcl).<br/>
+
+# Installation
+
+1. Download the above Dependencies, and copy excutable files to a bin folder.<br/>
+2. Download OrthoVenn2 and upzip.<br/>
+3. Enter the directory after extracting.<br/>
+4. type "python ./OrthoVenn2".<br/>
+
