@@ -25,10 +25,10 @@ The project folder contains python files of OrthoVenn2 and the bin folder contai
 
 # Usage
 
-Usage:
--i the path of protein fasta files folder
--w the path of output folder
--b the path of bin folder
+Usage:<br/>
+-i the path of protein fasta files folder<br/>
+-w the path of output folder<br/>
+-b the path of bin folder<br/>
 
 
 
