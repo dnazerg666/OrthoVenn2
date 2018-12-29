@@ -1,4 +1,4 @@
-![image](https://github.com/dnazerg666/OrthoVenn2/raw/master/image.png)
+![image](https://github.com/dnazerg666/OrthoVenn2/raw/master/image.jpg)
 
 # OrthoVenn2
 
